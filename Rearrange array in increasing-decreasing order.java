@@ -16,7 +16,7 @@ class Main
 	    ArrayList<Integer> num = new ArrayList<Integer>();
 	    
 	    for(int i=0;i < n;i++)
-	       num.add(sc.nextInt());
+	       num.add(i);
 	       
 	   Collections.sort(num);
 	   
